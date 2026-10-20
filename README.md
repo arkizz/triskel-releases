@@ -1,9 +1,9 @@
 # Triskel
 
-Distribución del launcher y panel nativo C++ para Windows 10/11 x64.
+Native C++ launcher and panel for Windows 10/11 x64.
 
-Descarga `Triskel.exe` desde [la última versión](https://github.com/arkizz/triskel-releases/releases/latest). Al iniciar sesión, el launcher instala el panel y sus componentes en `%LOCALAPPDATA%\Triskel`, una carpeta oculta del perfil de Windows.
+Download **Triskel.exe** from the [latest release](https://github.com/arkizz/triskel-releases/releases/latest). After you sign in, the launcher installs the panel and its components in `%LOCALAPPDATA%\Triskel`, a hidden folder in your Windows profile.
 
-La primera instalación necesita internet. ViGEmBus y Windows OCR se instalan si faltan y pueden requerir permisos de administrador o un reinicio.
+The first installation requires an internet connection. ViGEmBus and Windows OCR are installed if missing and may require administrator privileges or a Windows restart.
 
-Los archivos `triskel.zip` y `triskel-update.json` son utilizados por el launcher. No es necesario descargarlos manualmente.
+`triskel.zip` and `triskel-update.json` are used automatically by the launcher. You do not need to download them manually.
